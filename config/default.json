@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": " dsdfdsfds sdf f dsf dsfd fdsf sdf",
+    "mongoDbURL" : "mongodb+srv://qwerty1:qwerty1@app.xdjcl.mongodb.net/app?retryWrites=true&w=majority",
+    "baseURL" : "http://localhost:3000"
+}
